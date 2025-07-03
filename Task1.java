@@ -4,11 +4,11 @@ public class Task1{
        int redius=12;
 
       public void addition(){
-            System.out.println(a+b+c);
+            System.out.println("sum of three number : "+a+b+c);
       }
 
       public void areaOfCircle(){
-               System.out.println(3.14*redius*redius);
+               System.out.println("Area of circle "+3.14*redius*redius);
         }
 
 
