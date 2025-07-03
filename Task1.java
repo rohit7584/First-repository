@@ -4,7 +4,7 @@ public class Task1{
        int redius=12;
 
       public void addition(){
-            System.out.println("sum of three number : "+a+b+c);
+            System.out.println("sum of three number : "+(a+b+c));
       }
 
       public void areaOfCircle(){
