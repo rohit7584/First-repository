@@ -1,6 +1,6 @@
 public class Person{
 		// variables 
-	static String name = "Kiran";
+	static String name = "Rohit";
 	static int age = 24;
 
 	public static void main(String[] args){
